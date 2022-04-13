@@ -1,11 +1,13 @@
-agarrar una taza
-agregar 2 cucharadas de cafe
-agregar 2 cucharadas de azucar
-encender la hornalla
-poner agua en la pava
-poner la pava en el fuego
-esperar 5 minutos
-retirar la pava del fuego
-vertir el agua en la taza
-colocar 2 cucharadas de leche en polvo en la taza
-revolver con cuchara hasta que sea homogeneo
+
+
+- tomo el detergente con una mano y la esponja con la otra
+- coloco el equivalente a 1 cucharadita de detergente en la esponja
+- abro la canilla
+- mojo la esponja y la aprieto hasta que produzca espuma
+- cierro la canilla
+- froto la esponja sobre la superficie del plato sucio por ambos lados hasta que salgan los restos de comida
+- coloco el plato enjabonado al costado de la pileta
+- repito los pasos 6 y 7 hasta tener todos los platos enjabonados
+- abro la canilla
+- enjuago uno a uno los platos
+- coloco los platos limpios sobre el escurridor o trapo absorvente
